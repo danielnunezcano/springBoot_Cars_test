@@ -1,0 +1,7 @@
+/.settings/
+.idea
+/target/
+/config/
+.settings/org.eclipse.jdt.core.prefs
+.classpath
+.project
